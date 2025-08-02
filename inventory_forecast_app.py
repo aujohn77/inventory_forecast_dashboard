@@ -37,8 +37,8 @@ df = load_forecast_data()
 # --------------------------
 # Streamlit Interface
 # --------------------------
-st.set_page_config(page_title="Inventory Forecast Dashboard XXXXXXXXXXXX", layout="wide")
-st.title("📦 Inventory Forecast Dashboard")
+st.set_page_config(page_title="Inventory Forecast Dashboard", layout="wide")
+st.title("📦 Inventory Forecast Dashboard XXXXXXXXXXXXXX")
 
 if df.empty:
     st.warning("No data available.")
