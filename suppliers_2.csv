@@ -1,0 +1,6 @@
+id,name,contact_email,region
+1,Supplier 1,supplier1@example.com,North
+2,Supplier 2,supplier2@example.com,North
+3,Supplier 3,supplier3@example.com,South
+4,Supplier 4,supplier4@example.com,South
+5,Supplier 5,supplier5@example.com,North

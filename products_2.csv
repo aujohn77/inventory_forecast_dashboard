@@ -1,0 +1,11 @@
+id,name,category,supplier_id,unit_price
+1,Product 1,Office Supplies,3,51.09
+2,Product 2,Electronics,1,45.42
+3,Product 3,Office Supplies,1,11.09
+4,Product 4,Electronics,4,94.8
+5,Product 5,Office Supplies,4,57.85
+6,Product 6,Furniture,4,57.39
+7,Product 7,Electronics,3,5.48
+8,Product 8,Furniture,4,55.37
+9,Product 9,Furniture,3,32.82
+10,Product 10,Furniture,4,46.41

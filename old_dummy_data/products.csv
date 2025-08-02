@@ -1,0 +1,5 @@
+id,name,category,supplier_id,unit_price
+1,Laptop,Electronics,1,1200.50
+2,Mouse,Accessories,2,25.00
+3,Desk Chair,Furniture,1,150.00
+4,Notebook,Stationery,3,3.25
