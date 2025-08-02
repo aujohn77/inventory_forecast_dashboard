@@ -3,13 +3,13 @@ import pandas as pd
 from supabase import create_client, Client
 import os
 
+
+
+
+
 # --------------------------
 # Supabase credentials
 # --------------------------
-
-
-
-
 SUPABASE_URL = os.getenv("SUPABASE_URL")
 SUPABASE_KEY = os.getenv("SUPABASE_KEY")
 
@@ -37,7 +37,7 @@ df = load_forecast_data()
 # --------------------------
 # Streamlit Interface
 # --------------------------
-st.set_page_config(page_title="Inventory Forecast Dashboard", layout="wide")
+st.set_page_config(page_title="Inventory Forecast Dashboard XXXXXXXXXXXX", layout="wide")
 st.title("📦 Inventory Forecast Dashboard")
 
 if df.empty:
